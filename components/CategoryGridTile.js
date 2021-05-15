@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
     alignItems: "flex-end",
   },
   title: {
-    fontSize: 18,
+    fontSize: 20,
     fontWeight: "700",
     textAlign: "right",
   },
